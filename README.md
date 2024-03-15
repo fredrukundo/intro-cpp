@@ -15,7 +15,9 @@ This project is designed to help you get started with C++ programming, covering 
    - [5. Polymorphism](#cpp-polymorphism)
    - [6. Exception Handling](#cpp-exception)
    - [7. File Handling](#cpp-files)
-3. [Compilation](#compilation)
+3. [OOP-exercises](#OOP-exos)
+4. [LeetCode](#Leetcode_exercises)
+5. [Compilation](#compilation)
    - [Compile with -Wall -Wextra -Werror](#compile-with-wall-wextra-werror)
    - [Compatibility with -std=c++98](#compatibility-with-stdc++98)
 
@@ -45,7 +47,10 @@ Welcome to the Get Started with C++ project! Whether you are a beginner or looki
 
 ### 7. File Handling
 - Working with files in C++ for input and output operations.
-
+## OOP-exos
+- these exercises help you to improve your C++ programming coding skills
+## Leetcode_exercises
+- these leetcode exercises help you to practice and be familiar with C++
 ## Compilation
 
 ### Compile with -Wall -Wextra -Werror
